@@ -70,4 +70,10 @@ span{
     min-height: 100vh;
     background: rgb(241, 241, 241);
     display: flex;
+    align-items: center;
+    gap: 5em;
+    padding: 80px 14% 0;
+}
+.home-content{
+    max-width: 800px;
 }
