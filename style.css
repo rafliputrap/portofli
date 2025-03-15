@@ -77,3 +77,14 @@ span{
 .home-content{
     max-width: 800px;
 }
+.home-content h3{
+    font-size: 20px;
+}
+.home-content h1{
+    font-size: 52px;
+    line-height: 1.0;
+}
+.home-content p{
+    font-size: 14px;
+    margin: 25px 0 30px;
+}
