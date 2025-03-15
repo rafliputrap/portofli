@@ -110,3 +110,10 @@ span{
     color: black;
     border: 2px solid black;
 }
+.img-box img{
+    border-radius: 50%;
+    width: 290px;
+}
+::-webkit-scrollbar{
+    width: 15px;
+}
