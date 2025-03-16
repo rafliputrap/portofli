@@ -195,3 +195,17 @@ span{
     gap: 7em;
     padding: 30px 15% 0;
 }
+.hobby-content{
+    max-width: 800px;
+}
+.hobby-content h3{
+    font-size: 52px;
+}
+.hobby-content h2{
+    font-size: 42px;
+    line-height: 1.2;
+}
+.hobby-content p{
+    font-size: 15px;
+    margin: 2em 0 15em;
+}
