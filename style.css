@@ -158,3 +158,12 @@ span{
     border-radius: 50%;
     width: 290px;
 }
+.hobi{
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(241, 241, 241);
+    display: flex;
+    align-items: center;
+    gap: 7em;
+    padding: 30px 15% 0;
+}
