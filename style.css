@@ -154,6 +154,7 @@ span{
     font-size: 20px;
     margin: 2em 0 3em;
 }
+/* Hobi */
 .img-box img{
     border-radius: 50%;
     width: 290px;
@@ -180,4 +181,17 @@ span{
 .hobby-content p{
     font-size: 15px;
     margin: 2em 0 15em;
+}
+.img-box img{
+    border-radius: 50%;
+    width: 290px;
+}
+.hobi{
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(241, 241, 241);
+    display: flex;
+    align-items: center;
+    gap: 7em;
+    padding: 30px 15% 0;
 }
