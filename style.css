@@ -149,3 +149,8 @@ span{
     font-size: 62px;
     color: white;
 }
+.about-content p{
+    color: white;
+    font-size: 20px;
+    margin: 2em 0 3em;
+}
