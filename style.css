@@ -154,3 +154,7 @@ span{
     font-size: 20px;
     margin: 2em 0 3em;
 }
+.img-box img{
+    border-radius: 50%;
+    width: 290px;
+}
