@@ -140,3 +140,12 @@ span{
                 0 0 50px orangered;
     border-radius: 35%;
 }
+.about-content h2{
+    text-align: left;
+    color: white;
+    font-size: 42px;
+}
+.about-content h3{
+    font-size: 62px;
+    color: white;
+}
