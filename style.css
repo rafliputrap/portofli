@@ -267,3 +267,8 @@ span{
     box-shadow: inset 0 0 10px orangered, 0 0 10px orangered;
     transition: 0.3s ease;
 }
+.footer .social a:hover{
+    transform: scale(1.2)translateY(-10px);
+    color: orangered;
+    border: 2px solid orangered;
+}
