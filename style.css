@@ -124,6 +124,7 @@ span{
     background-color: rgba(0, 0, 0, 0.6);
     width: 50px;
 }
+
 /* About */
 .about{
     display: flex;
@@ -156,6 +157,15 @@ span{
 }
 
 /* Project */
+.project{
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(241, 241, 241);
+    display: flex;
+    align-items: center;
+    gap: 5em;
+    padding: 80px 14% 0;
+}
 
 /* Hobi */
 .img-box img{
