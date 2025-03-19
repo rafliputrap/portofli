@@ -180,6 +180,11 @@ span{
     color: orangered;
 }
 
+.project-img img{
+    position: relative;
+    width: 450px;
+}
+
 /* Hobi */
 .img-box img{
     border-radius: 50%;
