@@ -166,6 +166,9 @@ span{
     gap: 5em;
     padding: 80px 14% 0;
 }
+.project-content{
+    width: 100%;
+}
 
 /* Hobi */
 .img-box img{
