@@ -89,10 +89,7 @@ span{
     margin: 25px 0 30px;
 }
 /* hver trs simpen di projek */
-.btn-1{
-    transition: 0.3s ease;
-    cursor: pointer;
-}
+
 .btn-1:hover{
     background-color: white;
     color: black;
