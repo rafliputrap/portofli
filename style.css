@@ -90,8 +90,6 @@ span{
 }
 /* hver trs simpen di projek */
 .btn-1{
-    letter-spacing: 1px;
-    font-weight: 600;
     transition: 0.3s ease;
     cursor: pointer;
 }
