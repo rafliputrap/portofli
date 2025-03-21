@@ -188,6 +188,8 @@ span{
 
 .btn-box{
     width: 345px;
+    display: flex;
+    gap: 3em;
 }
 
 /* Hobi */
