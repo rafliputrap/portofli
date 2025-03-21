@@ -188,6 +188,8 @@ span{
     border: 2px solid transparent;
     border-radius: 8px;
     font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 600;
 }
 
 /* Hobi */
