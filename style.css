@@ -187,6 +187,10 @@ span{
     gap: 3em;
 }
 
+.btn-1{
+    padding: 10px 30px;
+}
+
 /* Hobi */
 .img-box img{
     border-radius: 50%;
