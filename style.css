@@ -88,6 +88,7 @@ span{
     font-size: 14px;
     margin: 25px 0 30px;
 }
+/* hver trs simpen di projek */
 .btn-box{
     width: 345px;
     display: flex;
@@ -183,6 +184,10 @@ span{
 .project-img img{
     position: relative;
     width: 450px;
+}
+
+.btn-box{
+    width: 345px;
 }
 
 /* Hobi */
